@@ -32,7 +32,7 @@ This project is a simulation of the solar system's orbits using Pygame. The simu
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/solar-system-simulation.git
+git clone https://github.com/hegone/solar-system-simulation.git
 cd solar-system-simulation
 ```
 2. Install Pygame:
