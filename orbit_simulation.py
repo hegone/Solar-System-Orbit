@@ -5,7 +5,7 @@ import math
 pygame.init()
 
 # Load custom font
-font_path = 'Solar-System-Orbit/Pretendard-Medium.otf'
+font_path = 'Pretendard-Medium.otf'
 font = pygame.font.Font(font_path, 24)
 
 # Define initial screen dimensions
